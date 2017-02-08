@@ -1,0 +1,28 @@
+{
+  "name": "infinite-spy",
+  "version": "1.0.0",
+  "description": "Infinite scroll plugin\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[Dlightweigt plugin similar to facebook content loading. Requiere jQuery.",
+  "main": "infiniteSpy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grinsteindavid/infinite-spy.git"
+  },
+  "keywords": [
+    "infinite-spy",
+    "infinite",
+    "scroll",
+    "plugin",
+    "facebook",
+    "loading",
+    "ajax"
+  ],
+  "author": "David Miranda Grinstein",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/grinsteindavid/infinite-spy/issues"
+  },
+  "homepage": "https://github.com/grinsteindavid/infinite-spy#readme"
+}
